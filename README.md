@@ -1,3 +1,3 @@
-- I'm <strong>Portuguese</strong>;
-- I'm interested in <strong>web development</strong>;
-- I'm currently learning <strong>Javascript</strong>.
+- From <strong>Lisbon, Portugal</strong>;
+- Looking to work as an <strong>OutSystems Developer or Web Developer</strong>;
+- I'm currently learning <strong>jquery and PostgreSQL</strong>.
